@@ -176,7 +176,7 @@ const games = [
     imageSrc: require('../img/games/big_keytonowhere.jpg'),
     title: 'Key To Nowhere',
     author: 'Ricardo Graca',
-    link: 'http://rizomatico.org/games/keytonowhere/',
+    link: 'https://rizomatico.org/wp-content/uploads/ktn/',
     linkType: 'play',
   },
   {
